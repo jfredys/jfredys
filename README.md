@@ -15,4 +15,3 @@ The majority of my professional work is **proprietary and under NDA**. I special
 **📫 Contact Me:**
 * [LinkedIn](https://www.linkedin.com/in/fredys)
 
-_I am happy to perform a code walkthrough or system design whiteboard session during an interview to demonstrate my technical depth._
