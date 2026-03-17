@@ -1,11 +1,11 @@
-### Hi there, I'm Fredys Romero 👋
+### Hi there, I'm Fredys 👋
 
-**Senior Software Engineer | Architect | Fintech & Distributed Systems Expert**
+**Senior Software Engineer | Fintech & Distributed Systems**
 
-I am a backend specialist with 17+ years of experience designing high-throughput, mission-critical systems
+I am a backend specialist with years of experience designing high-throughput, mission-critical systems
 
 🚫 **Why is my GitHub quiet?**
-The majority of my professional work is **proprietary and under NDA**. I specialize in building secure payment gateways, risk engines, and banking infrastructure—code that cannot be shared publicly.
+The majority of my professional work is **proprietary and under NDA**. I specialize in building secure payment gateways, risk engines, and banking infrastructure.
 
 **💡 What I do:**
 * **Architecture:** Event-Driven Microservices, AWS Cloud-Native, Serverless.
