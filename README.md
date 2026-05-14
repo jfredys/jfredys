@@ -5,7 +5,7 @@
 I am a backend specialist with years of experience designing high-throughput, mission-critical systems
 
 🚫 **Why is my GitHub quiet?**
-The majority of my professional work is **proprietary and under NDA**. I specialize in building secure payment gateways, risk engines, and banking infrastructure.
+The majority of my professional work is **proprietary and under NDA**. I specialize in building secure payment gateways, risk engines, and fintech infrastructure.
 
 **💡 What I do:**
 * **Architecture:** Event-Driven Microservices, AWS Cloud-Native, Serverless.
